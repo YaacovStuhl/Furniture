@@ -1,0 +1,20 @@
+
+We created Multiple div elements in order for the scroll animation js toact on each one
+
+The js for the wave animation wrapped each word in a span and moved it up and down on the y axis
+
+We wrote an active class in the css, and an event on each card that if, the card is clicked on, the active class is apllied on that card, which would then have a flex 1.0 and reoves it from the others would have now have an 0.5
+
+We used larger font sizes in the ethos for the opening and closing lines to attract the readers attention to the "unique" and "you" qualities
+
+We made a nav that included a link of "contancts" that would take the user down to the table at the bottom of the page where the contact information is
+
+The js search bar applies the active class of the second element in the css that makes it grow to 250px
+
+The scroll class in the js makes it so that it places the element outside the page along the x until it is called back in and transitions to its normal location
+
+We used a list in the middle of the page to insert "quotes" from various "persons"
+
+We used two flex boxes with center aligned content to give the image galley a 3 by 2 look, adding a stylistic element
+
+We made the nav positioning absolute so that it would follow the user down the page
